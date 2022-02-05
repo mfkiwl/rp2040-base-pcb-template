@@ -33,6 +33,10 @@ You can find the PDF [here](Schematic.pdf).
 * 0.4mm minimum outer via diameter
 * 0.2mm minimum via diameter drill size
 
+# Remaining Tasks
+* Adjust ground planes to project layer setup
+* Connect I/O according to project requirements
+
 # License
 This work is released under the CC BY SA 4.0 license.
 
