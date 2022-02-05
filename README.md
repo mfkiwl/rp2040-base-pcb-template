@@ -1,4 +1,4 @@
-# rp2040-base-pcb-template
+# RP2040 MCU Base Board Template
 A template EasyEDA project with Raspberry Pi RP2040, USB-UART Bridge, 16MB Flash and 800mA LDO optimised for JLCPCB PCBA.
 
 # Specifications
