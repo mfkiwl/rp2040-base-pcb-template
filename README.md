@@ -17,7 +17,7 @@ A template EasyEDA project with Raspberry Pi RP2040, USB-UART Bridge, 16MB Flash
 * W25Q128JVSIQTR 16 MB Flash Chip
 
 # Preview
-![board](https://user-images.githubusercontent.com/6614616/152640093-445de8fa-8e6c-46f5-8aea-53b38cc3a10d.png)
+![board](https://user-images.githubusercontent.com/6614616/152640249-a5a2907a-52f4-4841-9b09-49c20f084728.png)
 
 # License
 This work is released under the CC BY SA 4.0 license.
